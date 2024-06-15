@@ -33,7 +33,7 @@ To get started with this project, clone the repository and install the required 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fifa-21-player-analysis.git
+    git clone https://github.com/naorzkall/fifa-21-player-analysis.git
     cd fifa-21-player-analysis
     ```
 2. Install the required dependencies:
